@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/kony/MobileFabricInstaller-GA-7.3.0.4/tomcat/webapps/services/WEB-INF/lib/log4j-1.2-api-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/kony/MobileFabricInstaller-GA-7.3.0.4/tomcat/webapps/services/WEB-INF/lib/log4j-api-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/kony/MobileFabricInstaller-GA-7.3.0.4/tomcat/webapps/services/WEB-INF/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/kony/MobileFabricInstaller-GA-7.3.0.4/tomcat/webapps/services/WEB-INF/lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/kony/MobileFabricInstaller-GA-7.3.0.4/tomcat/webapps/services/WEB-INF/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/kony/MobileFabricInstaller-GA-7.3.0.4/tomcat/webapps/services/WEB-INF/lib/log4j-core-2.3.jar"/>
+	<classpathentry kind="lib" path="D:/kony/MobileFabricInstaller-GA-7.3.0.4/tomcat/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
